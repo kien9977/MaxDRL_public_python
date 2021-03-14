@@ -13,7 +13,7 @@ python main.py
 ```
 
 # License
-This code is completely FREE TO EDIT
+THIS CODE IS COMPLETELY FREE TO EDIT AND FREELY TO REDISTRIBUTE YOUR VERSION. IF YOU REDDISTRIBUTE MY CODE WITHOUT ANY EDIT, PLEASE GIVE ME A CREDIT
 
 # Tiếng Việt
 
@@ -30,4 +30,4 @@ python main.py
 ```
 
 # Bản quyền
-Bạn có toàn quyền chỉnh sửa code
+Bạn có toàn quyền chỉnh sửa code và phân phối bản của bạn. nếu bạn phân phối bản của mình mà không chỉnh sửa thì bạn hãy chú thích là mã nguồn của mình!
