@@ -18,7 +18,7 @@ This code is completely FREE TO EDIT
 # Tiếng Việt
 
 # Các bước để chạy
-+ Bước 1: Cài đặt python 3.x
++ Bước 1: Cài đặt Python 3.x
 + Bước 2: Sử dụng pip để cài đặt tqdm và requests
 ```
 python -m pip install tqdm
@@ -28,3 +28,6 @@ python -m pip install requests
 ```
 python main.py
 ```
+
+# Bản quyền
+Bạn có toàn quyền chỉnh sửa code
